@@ -1,0 +1,12 @@
+D:\newcamp2\campayload2\crypter2\ratup\test\TheDropper\SRC\bin\Debug\TheDropper.exe.config
+D:\newcamp2\campayload2\crypter2\ratup\test\TheDropper\SRC\bin\Debug\TheDropper.exe
+D:\newcamp2\campayload2\crypter2\ratup\test\TheDropper\SRC\bin\Debug\TheDropper.pdb
+D:\newcamp2\campayload2\crypter2\ratup\test\TheDropper\SRC\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\newcamp2\campayload2\crypter2\ratup\test\TheDropper\SRC\obj\Debug\TheDropper.csproj.ResolveComReference.cache
+D:\newcamp2\campayload2\crypter2\ratup\test\TheDropper\SRC\obj\Debug\TheDropper.Builder.resources
+D:\newcamp2\campayload2\crypter2\ratup\test\TheDropper\SRC\obj\Debug\TheDropper.Properties.Resources.resources
+D:\newcamp2\campayload2\crypter2\ratup\test\TheDropper\SRC\obj\Debug\TheDropper.csproj.GenerateResource.cache
+D:\newcamp2\campayload2\crypter2\ratup\test\TheDropper\SRC\obj\Debug\TheDropper.csproj.CoreCompileInputs.cache
+D:\newcamp2\campayload2\crypter2\ratup\test\TheDropper\SRC\obj\Debug\TheDropper.exe
+D:\newcamp2\campayload2\crypter2\ratup\test\TheDropper\SRC\obj\Debug\TheDropper.pdb
+D:\newcamp2\campayload2\crypter2\ratup\test\TheDropper\SRC\obj\Debug\TheDropper.csproj.AssemblyReference.cache
